@@ -1,0 +1,20 @@
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.exe.config
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.exe
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.pdb
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.csprojAssemblyReference.cache
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.Properties.Resources.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.csproj.GenerateResource.cache
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.exe
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.pdb
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.Form1.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\שנה ג\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.MainForm.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.exe.config
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.exe
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\bin\Debug\ChinesePoker.pdb
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.csprojAssemblyReference.cache
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.Form1.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.MainForm.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.Properties.Resources.resources
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.csproj.GenerateResource.cache
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.exe
+C:\Users\Harel\Desktop\הראל מדעי המחשב\visual studio solutions\ChinesePoker\ChinesePoker\obj\Debug\ChinesePoker.pdb
